@@ -12,6 +12,7 @@ export HISTCONTROL=ignoreboth
 
 shopt -s histappend
 shopt -s autocd
+shopt -s cdspell
 
 complete -cf sudo
 
